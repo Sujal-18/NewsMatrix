@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.imagebox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.loading{
+  max-width: 6%;
+  max-height: 6%;
+  
+}
+#heading{
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.row{
+  width: 90%;
+  margin:auto;
+}
